@@ -17,7 +17,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Lucas-gif" height="150" width="180" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
   
 </div>
 
