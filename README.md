@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Goulart
 
-- 💻 Cursando Analise e Desenvolvimento de Sistemas na Universidade ULBRA.
+- 💻 Acadêmico em Analise e Desenvolvimento de Sistemas na Universidade ULBRA.
 - 🏠 Torres, RS.
 
   ##
